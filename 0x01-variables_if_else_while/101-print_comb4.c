@@ -9,7 +9,7 @@
 
 int main(void)
 {
-it n, t, z;
+int n, t, z;
 
 for (z = '0'; z <= '7'; z++)
 {
