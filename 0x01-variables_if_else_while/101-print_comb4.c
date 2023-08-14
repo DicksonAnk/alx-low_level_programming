@@ -7,7 +7,7 @@
 *
 */
 
-it main(void)
+int main(void)
 {
 it n, t, z;
 
