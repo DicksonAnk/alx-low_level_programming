@@ -1,5 +1,4 @@
-#include "_putchar.c"
-#include <string.h>
+#include "main.h"
 
 /**
 * main - main entry function
@@ -10,7 +9,7 @@
 int main(void)
 {
 	char message[] = "_putchar";
-	int i, lenmsg = strlen(message);
+	int i, lenmsg = 8;
 
 	for (i = 0; i < lenmsg; i++)
 	{
